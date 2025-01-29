@@ -1,5 +1,5 @@
 // C++ Practice Question for Interviews
-// Write a Program To Check Whether Number is Even Or Odd
+// Write a Program To Check the ASCII Code of a Character
 
 #include<iostream>
 using namespace std;
